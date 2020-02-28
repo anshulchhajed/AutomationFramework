@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.528 s <<< FAILURE! - in runner.TestRunner
+initializationError(runner.TestRunner)  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: C:\Users\anshul_chhajed\eclipse-workspace1\automation.framework\Features
+
